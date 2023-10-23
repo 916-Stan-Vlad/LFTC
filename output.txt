@@ -1,0 +1,5 @@
+Lexeme: a Type: identifier
+Lexeme: 5 Type: identifier
+Lexeme: b Type: identifier
+Lexeme: 6 Type: identifier
+Lexeme: 3 Type: identifier
