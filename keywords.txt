@@ -1,3 +1,12 @@
+var
+legere
+si
+endsi
+ostende
+aliud
+endaliud
+dum
+enddum
 CONST
 IDENTIFIER
 int
@@ -33,3 +42,9 @@ else
 )
 {
 }
+<
+>
+[
+]
+"
+!

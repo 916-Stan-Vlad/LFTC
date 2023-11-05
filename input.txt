@@ -1,6 +1,17 @@
-int a = 5;
-int b = 6;
+var 2x
+x = legere <>
+var i = 2
+var prime = 1
 
-a = a + 3;
-b = b + 6;
-a = a + b;
+dum [i*i <= x && prime == 1]:
+	si [x%i == 0]:
+		prime = 0
+	endsi
+	i = i+1
+endum
+
+si[prime >= 1]:
+	ostende >>"Yes, it is prime!"
+endsi aliud:
+	ostende >> "No, it is not prime. // The string has missing end quotes, lexical error
+endaliud
